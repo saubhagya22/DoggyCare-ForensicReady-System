@@ -1,0 +1,1 @@
+-- forensic log table (same as schema.sql)
