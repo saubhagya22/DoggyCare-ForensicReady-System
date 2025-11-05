@@ -1,4 +1,4 @@
-![DoggyCare System Banner](https://github.com/saubhagya22/DoggyCare-ForensicReady-System/blob/main/DoggyCare_banner_optimized_under1MB.png?raw=true)
+![DoggyCare System Banner](https://raw.githubusercontent.com/saubhagya22/DoggyCare-ForensicReady-System/main/DoggyCare_banner_optimized_under1MB.png)
 
 
 DoggyCare is a secure, forensic-ready smart web application designed to streamline pet care management.
