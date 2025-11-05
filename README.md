@@ -1,5 +1,4 @@
-🐾 DoggyCare – Secure \& Forensic-Ready Smart Digital Platform for Pet Care Management
-
+![DoggyCare System Banner](https://github.com/saubhagya22/DoggyCare-ForensicReady-System/blob/main/DoggyCare_banner_optimized_under1MB.png?raw=true)
 
 
 DoggyCare is a secure, forensic-ready smart web application designed to streamline pet care management.
