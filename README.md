@@ -1,113 +1,108 @@
 ![DoggyCare System Banner](https://raw.githubusercontent.com/saubhagya22/DoggyCare-ForensicReady-System/main/DoggyCare_banner_optimized_under1MB.png)
 
+# 🐾 DoggyCare – Secure & Forensic-Ready Smart Digital Platform for Pet Care Management
 
-DoggyCare is a secure, forensic-ready smart web application designed to streamline pet care management.
+DoggyCare is a **secure, forensic-ready smart web application** designed to streamline pet care management.  
+It allows **pet owners**, **veterinarians**, and **administrators** to manage, monitor, and protect pet health records easily — ensuring data integrity and privacy through advanced encryption, access control, and audit mechanisms.
 
-It allows pet owners, veterinarians, and administrators to manage, monitor, and protect pet health records easily, ensuring data integrity and security through advanced encryption and auditing.
+---
 
+## 🚀 Features
 
+- 🔒 **Forensic-Ready Design** – Automatic logging and audit trails for accountability  
+- 🧠 **Smart Pet Health Tracking** – Vaccination, feeding, grooming, and medical records  
+- 🧑‍⚕️ **Role-Based Access Control (RBAC)** – Secure user-level permissions  
+- 💾 **Encrypted Data Storage** – AES-256 encryption for data protection  
+- ☁️ **Cloud Integration** – Real-time data sync and backup  
+- 📊 **Reports & Analytics** – Generate detailed reports for owners and veterinarians  
 
-🛡️ Key Features
+---
 
+## 🏗️ System Architecture Overview
+Frontend (React/Angular)
+↓
+Backend (Node.js / Express)
+↓
+Database (MySQL / MongoDB)
+↓
+Cloud & Storage (AWS / Azure)
 
+---
 
-✅ Forensic-Ready Architecture – Ensures system logs, activities, and data trails are securely stored for digital forensic analysis.
+## ⚙️ Technologies Used
 
-✅ Secure Authentication – Includes Multi-Factor Authentication (MFA) and Role-Based Access Control (RBAC).
+| Component | Technology |
+|------------|-------------|
+| Frontend | React.js / HTML / CSS / JavaScript |
+| Backend | Node.js / Express.js |
+| Database | MySQL / MongoDB |
+| Security | AES-256, Multi-Factor Authentication (MFA), HTTPS |
+| Version Control | Git & GitHub |
+| Cloud / Hosting | AWS / Azure |
 
-✅ Encrypted Data Storage – Uses AES-256 encryption for sensitive pet and user data.
+---
 
-✅ Smart Pet Health Tracking – Monitor vaccinations, medical reports, grooming, and feeding schedules.
+## 🧪 Forensic-Readiness Highlights
 
-✅ User Roles – Supports Pet Owners, Vets, and Admins with different privilege levels.
+- 📁 All user activities are logged with timestamps  
+- 🧾 Database audit trail maintained for every transaction 
+- 🔐 Encrypted backups for digital evidence integrity  
+- 🕵️‍♂️ Helps investigators retrieve valid digital proof if incidents occur  
 
-✅ Cloud-Integrated Backups – Regular automatic backups to ensure data availability.
+---
 
-✅ Responsive Frontend – Built for smooth performance across all devices.
+## 📥 Installation Guide
 
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/saubhagya22/DoggyCare-ForensicReady-System.git
+2. Navigate into the project folder:
+   cd DoggyCare-ForensicReady-System
+3. Install dependencies:   
+   npm install
+4. Run the development server:
+   npm start
 
+---
 
-⚙️ Tech Stack
-
-Component	Technology Used
-
-Frontend	React.js
-
-Backend	Spring Boot (Java)
-
-Database	MySQL
-
-Authentication	JWT + MFA
-
-Cloud / Hosting	AWS / GitHub Pages
-
-Security	AES-256 Encryption, HTTPS
-
-Version Control	Git \& GitHub
-
-📂 Project Structure
-
-
-
+##  📁 Project Structure
 DoggyCare-ForensicReady-System/
-
 │
-
-├── backend/ # Java Spring Boot APIs and logic
-
-├── frontend/ # React.js interface for users and vets
-
-├── database/ # MySQL database schema and scripts
-
-├── docs/ # Documentation (proposal, reports, etc.)
-
-├── DoggyCare\_banner\_optimized\_under1MB.png
-
+├── backend/              # Server-side logic
+├── frontend/             # Web UI
+├── database/             # Database structure & configs
+├── docs/                 # Documentation & proposal files
+├── DoggyCare_banner_optimized_under1MB.png
 └── README.md
 
+---
 
+## 👨‍💻 Author
 
-🔒 Security \& Forensics Focus
-
-
-
-Implements Digital Forensic Readiness: logs are maintained, timestamps synchronized, and secure audit trails generated.
-
-
-
-Supports Incident Response Compatibility: enabling efficient evidence collection.
-
-
-
-Prevents unauthorized access through layered defenses and encryption.
-
-
-
-📸 Screenshots / UI Previews (optional)
-
-
-
-(You can add UI images later here for the frontend.)
-
-
-
-👩‍💻 Author
-
-
-
-Developed by: Saubhagya Gunasekara
-
-📧 Email: \[your-email@example.com
-
+Saubhagya Gunasekara
+📧 Email: [your-email@example.com
 ]
-
 🌐 GitHub: https://github.com/saubhagya22
 
+---
+
+## 📜 License
+
+This project is licensed under the MIT License – you are free to use, modify, and distribute this software with proper credit.
 
 
-📜 License
 
 
 
-This project is developed for academic and research purposes and may be extended for production deployment with enhanced data privacy controls.
+
+
+
+
+
+
+
+
+
+
+
 
