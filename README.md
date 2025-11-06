@@ -1,4 +1,4 @@
-![DoggyCare Banner](DoggyCare_Banner_Optimized_1MB.png)
+![DoggyCare System Banner](DoggyCare_Banner_Optimized_1MB.png)
 
 # 🐾 DoggyCare – Secure & Forensic-Ready Smart Digital Platform for Pet Care Management
 
