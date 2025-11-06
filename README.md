@@ -1,4 +1,4 @@
-![DoggyCare System Banner](https://raw.githubusercontent.com/saubhagya22/DoggyCare-ForensicReady-System/main/DoggyCare_banner_optimized_under1MB.png)
+![DoggyCare Profile Banner](DoggyCare_Profile_Banner.png)
 
 # 🐾 DoggyCare – Secure & Forensic-Ready Smart Digital Platform for Pet Care Management
 
