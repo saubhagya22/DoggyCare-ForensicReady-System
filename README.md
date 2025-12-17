@@ -1,95 +1,70 @@
-![DoggyCare System Banner](DoggyCare_Banner_Optimized_1MB.png)
+# DoggyCare – Forensic Ready Smart Pet Care Management System
 
-# 🐾 DoggyCare – Secure & Forensic-Ready Smart Digital Platform for Pet Care Management
-
-DoggyCare is a **secure, forensic-ready smart web application** designed to streamline pet care management.  
-It allows **pet owners**, **veterinarians**, and **administrators** to manage, monitor, and protect pet health records easily — ensuring data integrity and privacy through advanced encryption, access control, and audit mechanisms.
-
----
-
-## 🚀 Features
-
-- 🔒 **Forensic-Ready Design** – Automatic logging and audit trails for accountability  
-- 🧠 **Smart Pet Health Tracking** – Vaccination, feeding, grooming, and medical records  
-- 🧑‍⚕️ **Role-Based Access Control (RBAC)** – Secure user-level permissions  
-- 💾 **Encrypted Data Storage** – AES-256 encryption for data protection  
-- ☁️ **Cloud Integration** – Real-time data sync and backup  
-- 📊 **Reports & Analytics** – Generate detailed reports for owners and veterinarians  
+## Student Details
+- **Name:** Saubhagya Kalindi Gunasekara  
+- **Index No:** E172686  
+- **Degree:** BSc (Hons) Cyber Security and Digital Forensics  
 
 ---
 
-## 🏗️ System Architecture Overview
-Frontend (React/Angular)
-↓
-Backend (Node.js / Express)
-↓
-Database (MySQL / MongoDB)
-↓
-Cloud & Storage (AWS / Azure)
+## Project Overview
+DoggyCare is a **forensic-ready web-based pet care management system** developed to manage veterinary services, pet records, appointments, and secure data handling.  
+The system is designed with **digital forensic readiness**, logging, and security best practices in mind.
 
 ---
 
-## ⚙️ Technologies Used
+## System Architecture
 
-| Component | Technology |
-|------------|-------------|
-| Frontend | React.js / HTML / CSS / JavaScript |
-| Backend | Node.js / Express.js |
-| Database | MySQL / MongoDB |
-| Security | AES-256, Multi-Factor Authentication (MFA), HTTPS |
-| Version Control | Git & GitHub |
-| Cloud / Hosting | AWS / Azure |
+Frontend (React.js)  
+⬇  
+Backend (Spring Boot – Java 17, REST API)  
+⬇  
+Database (MySQL)
 
 ---
 
-## 🧪 Forensic-Readiness Highlights
+## Technology Stack
 
-- 📁 All user activities are logged with timestamps  
-- 🧾 Database audit trail maintained for every transaction 
-- 🔐 Encrypted backups for digital evidence integrity  
-- 🕵️‍♂️ Helps investigators retrieve valid digital proof if incidents occur  
+### Frontend
+- React.js  
+- HTML5, CSS3  
+- Axios  
 
----
+### Backend
+- Java 17  
+- Spring Boot 3.x  
+- Spring Data JPA  
+- RESTful APIs  
 
-## 📥 Installation Guide
+### Database
+- MySQL 8.x  
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/saubhagya22/DoggyCare-ForensicReady-System.git
-2. Navigate into the project folder:
-   cd DoggyCare-ForensicReady-System
-3. Install dependencies:   
-   npm install
-4. Run the development server:
-   npm start
-
----
-
-##  📁 Project Structure
-DoggyCare-ForensicReady-System/
-│
-├── backend/              # Server-side logic
-├── frontend/             # Web UI
-├── database/             # Database structure & configs
-├── docs/                 # Documentation & proposal files
-├── DoggyCare_banner_optimized_under1MB.png
-└── README.md
+### Tools & Platforms
+- Apache Maven  
+- Node.js + npm  
+- Git & GitHub  
+- Postman  
 
 ---
 
-## 👨‍💻 Author
-
-Saubhagya Gunasekara
-📧 Email: [your-email@example.com
-]
-🌐 GitHub: https://github.com/saubhagya22
+## Features
+- User Authentication  
+- Pet Management  
+- Appointment Scheduling  
+- Medical Records Management  
+- Secure Database Storage  
+- Forensic-Ready Logging Design  
 
 ---
 
-## 📜 License
+## How to Run the Project
 
-This project is licensed under the MIT License – you are free to use, modify, and distribute this software with proper credit.
+### 1️⃣ Backend Setup (Spring Boot)
 
+```bash
+cd backend
+mvn clean install
+mvn spring-boot:run
 
 
 
